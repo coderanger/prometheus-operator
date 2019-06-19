@@ -22,7 +22,7 @@ package v1
 
 import (
 	spec "github.com/go-openapi/spec"
-	v1 "k8s.io/apimachinery/pkg/apis/meta/v1"
+	// v1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	common "k8s.io/kube-openapi/pkg/common"
 )
 
